@@ -1,0 +1,23 @@
+{
+  "name": "persistencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thsmmil/API_IFEgg.git"
+  },
+  "keywords": [],
+  "author": "Edrey, Kyllder, Ricardo e Thiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thsmmil/API_IFEgg/issues"
+  },
+  "homepage": "https://github.com/thsmmil/API_IFEgg#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
