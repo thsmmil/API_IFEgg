@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Persistencia de dados IFEgg",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "granja":[
+      {
+        "id": 1,
+        "nome": "Granja Canaa",
+        "data_criacao": "01/01/2021"
+      },
+      {
+        "id": 2,
+        "nome": "Granja A",
+        "data_criacao": "01/01/2021"  
+      },
+      {
+        "id": 3,
+        "nome": "Granja B",
+        "data_criacao": "01/01/2021"  
+      },
+      {
+        "id": 4,
+        "nome": "Granja C",
+        "data_criacao": "01/01/2021"  
+      },
+      {
+        "id": 5,
+        "nome": "Granja Da Yse",
+        "data_criacao": "13/12/2028"  
+      }
+      
+    ]
+   ,
+    "lancamentos": [
+      {
+      "galinhas": 250,
+      "ovos_produzidos": 500,
+      "ovos_quebrados": 100,
+      "data_lancamento":"06/06/2021",
+      "id_granja":1
+      },
+      {
+        "galinhas": 300,
+        "ovos_produzidos": 600,
+        "ovos_quebrados": 150,
+        "data_lancamento":"06/06/2021",
+        "id_granja":2
+      },
+      {
+        "galinhas": 200,
+        "ovos_produzidos": 400,
+        "ovos_quebrados": 75,
+        "data_lancamento":"06/06/2021",
+        "id_granja":3
+      },
+      {
+        "galinhas": 400,
+        "ovos_produzidos": 700,
+        "ovos_quebrados": 125,
+        "data_lancamento":"06/06/2021",
+        "id_granja":4
+      },
+      {
+        "galinhas": 13,
+        "ovos_produzidos": 18,
+        "ovos_quebrados": 12,
+        "data_lancamento":"13/12/2021",
+        "id_granja":5
+      }
+      
+  ]
+}
