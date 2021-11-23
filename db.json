@@ -18,18 +18,21 @@
   },
   "user":[
     {
+      "id": 1,
       "username": "ThiagoM",
       "password": "13122018",
       "nome": "Thiago Hortencio Silva de Melo",
       "email":"thsmmil01@gmail.com"
     },
     {
+      "id": 2,
       "username": "KyllderR",
       "password": "12345678",
       "nome": "Kyllder Almeida Rocha",
       "email":"kyllder.rocha@gmail.com"
     },
     {
+      "id": 3,
       "username": "RicardoT",
       "password": "87654321",
       "nome": "Ricardo Tenorio",
