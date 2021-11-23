@@ -16,6 +16,27 @@
   "profile": {
     "name": "typicode"
   },
+  "user":[
+    {
+      "username": "ThiagoM",
+      "password": "13122018",
+      "nome": "Thiago Hortencio Silva de Melo",
+      "email":"thsmmil01@gmail.com"
+    },
+    {
+      "username": "KyllderR",
+      "password": "12345678",
+      "nome": "Kyllder Almeida Rocha",
+      "email":"kyllder.rocha@gmail.com"
+    },
+    {
+      "username": "RicardoT",
+      "password": "87654321",
+      "nome": "Ricardo Tenorio",
+      "email":"ricardo.t@gmail.com"
+    }
+  ]
+  ,
   "granja":[
       {
         "id": 1,
